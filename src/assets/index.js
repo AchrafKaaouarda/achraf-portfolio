@@ -1,6 +1,4 @@
 // Import company logos
-import mathwork from "./company/mathwork.png";
-import edunet from "./company/edunet.png";
 import mpm from "./company/mpmp.png";
 
 // Import tech stack images
@@ -30,8 +28,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 export {
-  mathwork,
-  edunet,
   python,
   Php,
   github,
